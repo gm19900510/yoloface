@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 #DATA IMG
-data/WIDER
+data/WIDER/
